@@ -1,7 +1,7 @@
-package test
+package greet
 
 import "fmt"
 
 func HelloTest() {
-	fmt.Println("Hello, World! test")
+	fmt.Println("test Hello, World! test")
 }
