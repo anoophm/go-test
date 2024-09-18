@@ -1,3 +1,3 @@
 module github.com/anoophm/go-test
 
-go 1.22
+go 1.15
